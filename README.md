@@ -15,7 +15,7 @@ var summations = require('summations');
 ```
 The library also supports standalone usage in browsers:
 ```html
-<script src="https://lapets.github.io/summations/lib/summations.js"></script>
+<script src="https://reity.org/summations-js/lib/summations.js"></script>
 ```
 
 ## Examples

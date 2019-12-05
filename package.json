@@ -1,18 +1,18 @@
 {
   "name": "summations",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Andrei Lapets",
     "email": "a@lapets.io"
   },
   "description": "Library to enumerate all natural number lists with a target sum.",
-  "homepage": "https://github.com/lapets/summations",
+  "homepage": "https://github.com/reity/summations-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lapets/summations"
+    "url": "https://github.com/reity/summations-js"
   },
   "bugs": {
-    "url": "https://github.com/lapets/summations/issues"
+    "url": "https://github.com/reity/summations-js/issues"
   },
   "keywords": [
     "math",

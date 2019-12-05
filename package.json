@@ -1,0 +1,35 @@
+{
+  "name": "summations",
+  "version": "0.0.2",
+  "author": {
+    "name": "Andrei Lapets",
+    "email": "a@lapets.io"
+  },
+  "description": "Library to enumerate all natural number lists with a target sum.",
+  "homepage": "https://github.com/lapets/summations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lapets/summations"
+  },
+  "bugs": {
+    "url": "https://github.com/lapets/summations/issues"
+  },
+  "keywords": [
+    "math",
+    "mathematics",
+    "combinations"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "lib/summations.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha test"
+  },
+  "analyze": false,
+  "preferGlobal": false,
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^4.0.1"
+  }
+}
